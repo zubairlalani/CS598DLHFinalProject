@@ -8,6 +8,13 @@ Representation Pipeline for MIMIC-III:
 
 https://arxiv.org/pdf/1907.08322
 
+Code for MIMIC-Extract:
+
+https://github.com/MLforHealth/MIMIC_Extract
+
+MIMICExtractEasy (repo I found that may help if we find it difficult to use MIMIC-Extract):
+https://github.com/SphtKr/MIMICExtractEasy
+
 General overview of Counterfactuals (also talks about DICE which is one of the methods that our paper mentioned):
 
 https://www.youtube.com/watch?v=P-neqnCjnZI
