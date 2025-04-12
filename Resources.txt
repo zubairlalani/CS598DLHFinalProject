@@ -1,0 +1,4 @@
+General overview of Counterfactuals (also talks about DICE which is one of the methods that our paper mentioned):
+
+https://www.youtube.com/watch?v=P-neqnCjnZI
+
