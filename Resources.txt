@@ -1,3 +1,13 @@
+Explaining a machine learning decision to physicians via
+counterfactuals:
+
+https://arxiv.org/pdf/2306.06325
+
+MIMIC-Extract: A Data Extraction, Preprocessing, and
+Representation Pipeline for MIMIC-III:
+
+https://arxiv.org/pdf/1907.08322
+
 General overview of Counterfactuals (also talks about DICE which is one of the methods that our paper mentioned):
 
 https://www.youtube.com/watch?v=P-neqnCjnZI
