@@ -6,4 +6,4 @@ We have attempted to recreate the paper "Explaining a Machine Learning Decision 
 
 In order to run this code, you will need to have Python Version 3 installed.
 
-Please import the entire repository with all the included files to run it successfully.
+Please import the entire repository with all the included files to run it successfully. We recommend using Google Collab, as you will not need to download any additional libraries.
